@@ -52,7 +52,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 0,
-    "versionPublish": "5.6.13"
+    "versionPublish": "5.6.13",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
